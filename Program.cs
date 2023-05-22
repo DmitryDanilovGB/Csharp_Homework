@@ -6,11 +6,11 @@ int secondnumber = Convert.ToInt32(Console.ReadLine());
 
 if(firstnumber == secondnumber * secondnumber)
 {
-Console.WriteLine ("Число " + firstnumber + " является квадратом числа: " + secondnumber);
+    Console.WriteLine ("Число " + firstnumber + " является квадратом числа: " + secondnumber);
 }
 else
 {
-Console.WriteLine ("Число " + firstnumber + " НЕ является квадратом числа: " + secondnumber);
+    Console.WriteLine ("Число " + firstnumber + " НЕ является квадратом числа: " + secondnumber);
 }
 
 

@@ -1,0 +1,15 @@
+C:\GeekBrains\Welcome_C#\lessons_1\bin\Debug\net6.0\lessons_1.exe
+C:\GeekBrains\Welcome_C#\lessons_1\bin\Debug\net6.0\lessons_1.deps.json
+C:\GeekBrains\Welcome_C#\lessons_1\bin\Debug\net6.0\lessons_1.runtimeconfig.json
+C:\GeekBrains\Welcome_C#\lessons_1\bin\Debug\net6.0\lessons_1.dll
+C:\GeekBrains\Welcome_C#\lessons_1\bin\Debug\net6.0\lessons_1.pdb
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.csproj.AssemblyReference.cache
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.AssemblyInfoInputs.cache
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.AssemblyInfo.cs
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.dll
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\refint\lessons_1.dll
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.pdb
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\lessons_1.genruntimeconfig.cache
+C:\GeekBrains\Welcome_C#\lessons_1\obj\Debug\net6.0\ref\lessons_1.dll
